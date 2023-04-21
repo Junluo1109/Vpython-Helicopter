@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=q-_7y0WUnW4
 
 ### The Exam
 https://www.aapt.org/physicsteam/2015/upload/exam1-2014-2-2.pdf
-![image](https://github.com/Junluo1109/Vpython-Helicopter/blob/main/Helicopter.gif)
+![image]([https://github.com/Junluo1109/Vpython-Helicopter/blob/main/Helicopter.gif](https://github.com/Junluo1109/Vpython-Helicopter/blob/main/exam.png))
 
 ### Simulation Result
 Helicopter rope 
